@@ -1,0 +1,62 @@
+h1 {
+  color: rgba(240, 255, 255, 0.519);
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  font-style: italic;
+  background-repeat: no-repeat;
+}
+div {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+p {
+  height: 50px;
+  width: 200px;
+  margin-top: 150px;
+  background-color: rgba(128, 255, 0, 0.26);
+  text-align: center;
+  margin-left: -250px;
+}
+body {
+  background-image: url(bottom-view-starry-sky_23-2148282356.avif);
+  background-size: cover;
+}
+.container {
+  width: 700px;
+  height: 250px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 50px;
+}
+.container-two {
+  width: 700px;
+  height: 250px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -500px;
+  margin: auto;
+}
+#img1 {
+  background-image: url(https://picsum.photos/200);
+}
+#img2 {
+  background-image: url(https://picsum.photos/500);
+  background-size: contain;
+}
+#img3 {
+  background-image: url(https://picsum.photos/250);
+}
+#img4 {
+  background-image: url(https://picsum.photos/350);
+  background-size: contain;
+}
+#img5 {
+  background-image: url(https://picsum.photos/300);
+  background-size: contain;
+}
+#img6 {
+  background-image: url(https://picsum.photos/450);
+}
